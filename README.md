@@ -35,3 +35,10 @@ Dataset consist of **12** columns and **27821** rows.
 |Suicides/100k pop |Decimal    	|Estimation of suicides per 100k    	|
 |Country-year      |String     	|Country and year associated with it |
 |HDI for year     	|Decimal    	|Human Development Index   	         |
+
+### **References:** ###
+
+- United Nations Devlopment Program (2018) Human development index (HDI) http://hdr.undp.org/en/indicators/137506
+- World development indicators: GDP by country:1985 to 2016.                      http://databank.worldbank.org/data/source/world-development-indicators#
+- Suicide in the Twenty-First Century [Dataset]                                              https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/notebook
+- World Health Organization. (2018)                                                       http://www.who.int/mental_health/suicide-prevention/en/
