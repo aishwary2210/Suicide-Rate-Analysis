@@ -10,13 +10,28 @@ World Health Organization (WHO) estimates that around one million people die fro
  
  This analysis will give us insights and lead to possible measures that we can take to counter this problem.  
  
-**TEAM MEMEBERS:**
--  Aishwary Gawande
--  Nitish Singh
--  Zahra Booyavi
+
+| **TEAM MEMBERS**  	|**USER NAME**   	|   	
+|---	                |---	             |
+|Aishwary Gawande    | @aishwary2210  	|   	
+|Nitish Singh       	| @nitishs95     	|   	
+|Zahra Booyavi       | @zbooyavi       |    
 
 
+### **DATA SET DESCRIPTION**
+
+Dataset consist of **12** columns and **27821** rows. 
  
  
  
- 
+|**Column name**   |**Type**   	|**Description**                     |
+|---           	   |---	        |---                   	             |
+|Country           |String     	|Name of the countries   	           |
+|Year             	|Numerical   |Year in which suicided happened     |
+|Sex               |String      |Male/Female                  	      |
+|Age	              |Numerical   |Age of a person                     |
+|Suicides_no      	|Numerical   |Count of suicides   	               |
+|Population   	    |Numerical   |Total population                  	 |
+|Suicides/100k pop |Decimal    	|Estimation of suicides per 100k    	|
+|Country-year      |String     	|Country and year associated with it |
+|HDI for year     	|Decimal    	|Human Development Index   	         |
