@@ -37,6 +37,28 @@ Dataset consist of **12** columns and **27821** rows.
 |Country-year      |String     	|Country and year associated with it |
 |HDI for year     	|Decimal    	|Human Development Index   	         |
 
+
+
+### Methods Used
+* Inferential Statistics
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+* ANOVA (Analysis of Variance) 
+* Multiple Linear Regression 
+* Principal Component Analysis
+* Clustering 
+* Factor Analysis
+
+### Technologies
+* R 
+* MySql
+
+
+
+
+
+
 ### **References:** ###
 
 - United Nations Devlopment Program (2018) Human development index (HDI) http://hdr.undp.org/en/indicators/137506
